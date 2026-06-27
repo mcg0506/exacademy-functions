@@ -1,0 +1,9 @@
+{
+  "name": "exacademy-functions",
+  "version": "1.0.0",
+  "description": "Netlify serverless functions for EX Academy",
+  "dependencies": {
+    "stripe": "^14.0.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
